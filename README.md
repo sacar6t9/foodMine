@@ -92,3 +92,12 @@ Open a pull request.
 .
 
 Thank you for using Food Finder! Happy searching and happy eating! 🍔🥗🍕
+#preview of this app
+![Screenshot (52)](https://github.com/sacar6t9/foodMine/assets/101989036/02e03964-1556-40a5-a8ff-60ad9df59dd5)
+![Screenshot (53)](https://github.com/sacar6t9/foodMine/assets/101989036/179897db-962a-4399-a1b0-21778c278aa1)
+![Screenshot (56)](https://github.com/sacar6t9/foodMine/assets/101989036/4d8f50e7-1f43-4ed3-b288-e28435c26394)
+![Screenshot (54)](https://github.com/sacar6t9/foodMine/assets/101989036/e9139876-8af3-4745-8d6c-4bea8c780859)
+![Screenshot (57)](https://github.com/sacar6t9/foodMine/assets/101989036/178b4b8f-45b8-4bdf-8a9c-1d1d4acbf8dd)
+![Screenshot (55)](https://github.com/sacar6t9/foodMine/assets/101989036/a9bc0b8a-9731-40ee-a6f7-4000073e795b)
+
+
